@@ -1,0 +1,61 @@
+{
+  "contact": {
+    "title": "Contact",
+    "description": "Neem gerust contact met mij op via het onderstaande formulier.",
+    "name": "Naam",
+    "email": "E-mail",
+    "message": "Bericht",
+    "send": "Verzenden"
+  },
+  "projects": {
+    "title": "Projecten Pagina",
+    "description": "Hier kan je alle projecten bekijken.",
+    "mcwordle": {
+      "title": "Mc-Wordle",
+      "stack": "HTML CSS JS",
+      "hosted": "Gehost",
+      "desc": "Een Minecraft-spel waarbij je een mob moet raden, de data komt uit een json-bestand",
+      "link": "Bekijk het!"
+    },
+    "pokemon": {
+      "title": "Pokemon",
+      "stack": "React + API gebruik",
+      "hosted": "Gehost",
+      "desc": "Een website waar je Pokémon kunt bekijken en epische teams kunt maken",
+      "link": "Bekijk het!"
+    },
+    "inlog": {
+      "title": "inlog- registratiesysteem",
+      "stack": "Laravel MVC",
+      "hosted": "niet Gehost",
+      "desc": "Een app met permissies waarbij links alleen zichtbaar zijn als een gebruiker de juiste rechten heeft",
+      "link": "Bekijk het!"
+    },
+    "laravel": {
+      "title": "de Laravel beginner tutorial",
+      "stack": "Laravel MVC",
+      "hosted": "niet Gehost",
+      "desc": "Ik heb een tutorial gevolgd van <1>Laracast</1> door Jeffrey Way!",
+      "link": "Bekijk het!"
+    }
+  },
+  "about": {
+    "title": "Over Mij",
+    "description": "Mijn naam is Özer en ik ben 18 jaar oud. Ik studeer momenteel Software Development aan het MBO Utrecht, waar ik een sterke basis opbouw in full-stack development.<br /><br />Ik heb ervaring met zowel de front-end als de back-end van webapplicaties. Aan de voorkant richt ik me op het maken van schone, responsieve en gebruiksvriendelijke interfaces, terwijl ik aan de achterkant werk met logica, API's en databases om betrouwbare en schaalbare oplossingen te bouwen.<br /><br />Tijdens mijn studie verbeter ik continu mijn technische vaardigheden door aan projecten te werken, best practices toe te passen en nieuwe technologieën te leren. Ik ben gemotiveerd, nauwkeurig en enthousiast om praktijkervaring op te doen in een professionele ontwikkelomgeving.<br /><br />"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "Over mij",
+    "projects": "Projecten",
+    "contact": "Contact",
+    "english": "Engels",
+    "dutch": "Nederlands",
+    "turkish": "Turks"
+  },
+  "school": "School",
+  "emailDirect": "Of mail mij direct:",
+  "home": {
+    "title": "Welkom!",
+    "intro": "Hoi, ik ben Özer, een 18-jarige software development student aan het MBO Utrecht. Ik bouw graag full-stack webapps en leer graag nieuwe technologieën!"
+  }
+}

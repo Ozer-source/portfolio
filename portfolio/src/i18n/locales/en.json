@@ -1,0 +1,61 @@
+{
+  "contact": {
+    "title": "Contact",
+    "description": "Feel free to reach out to me using the form below.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  },
+  "projects": {
+    "title": "Projects Page",
+    "description": "Here you can view all projects.",
+    "mcwordle": {
+      "title": "Mc-Wordle",
+      "stack": "HTML CSS JS",
+      "hosted": "Hosted",
+      "desc": "A minecraft game where you guess a mob where the data comes from a json file",
+      "link": "Check it out!"
+    },
+    "pokemon": {
+      "title": "Pokemon",
+      "stack": "React + API usage",
+      "hosted": "Hosted",
+      "desc": "A website where you can see pokemon and make epic teams",
+      "link": "Check it out!"
+    },
+    "inlog": {
+      "title": "inlog- registratiesysteem",
+      "stack": "Laravel MVC",
+      "hosted": "not Hosted",
+      "desc": "A app with permissions where links only show up if a user has the right permissions",
+      "link": "Check it out!"
+    },
+    "laravel": {
+      "title": "the Laravel beginner tutorial",
+      "stack": "Laravel MVC",
+      "hosted": "not Hosted",
+      "desc": "I followed a tutorial from <1>Laracast</1> by Jeffrey Way!",
+      "link": "Check it out!"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "My name is Özer and I am 18 years old. I am currently studying Software Development at MBO Utrecht, where I am building a strong foundation in full-stack development.<br /><br />I have experience working on both the front-end and back-end of web applications. On the front end, I focus on creating clean, responsive, and user-friendly interfaces, while on the back end I work with logic, APIs, and databases to build reliable and scalable solutions.<br /><br />During my studies, I continuously improve my technical skills by working on projects, applying best practices, and learning new technologies. I am motivated, detail-oriented, and eager to gain practical experience in a professional development environment.<br /><br />"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "english": "English",
+    "dutch": "Dutch",
+    "turkish": "Turkish"
+  },
+  "school": "School",
+  "emailDirect": "Or email me directly:",
+  "home": {
+    "title": "Welcome!",
+    "intro": "Hi, I'm Özer, an 18-year-old software development student at MBO Utrecht. I love building full-stack web apps and learning new tech!"
+  }
+}
